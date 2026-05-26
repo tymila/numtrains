@@ -1,0 +1,6 @@
+{
+  "name": "Neural Network Visualizer",
+  "description": "An interactive, visually rich neural network learning system built from scratch to visualize how neurons learn to recognize the digit 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
